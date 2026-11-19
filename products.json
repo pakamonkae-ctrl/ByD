@@ -6,7 +6,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "fresh.JPG",
+    "image": "fresh.jpg",
     "description": "กลิ่นสะอาด สดชื่น เหมาะกับวันที่ต้องออกไปข้างนอก พกง่ายในกระเป๋า"
   },
   {
@@ -16,7 +16,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "fresh.JPG",
+    "image": "fresh.jpg",
     "description": "กลิ่นสะอาด สดชื่น ขนาดใหญ่ สำหรับใช้ประจำทุกวัน"
   },
   {
@@ -26,7 +26,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "sweet.JPG",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานนุ่มนวล อบอุ่น ติดตัวสบาย พกง่ายในกระเป๋า"
   },
   {
@@ -36,7 +36,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "sweet.JPG",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานนุ่มนวล อบอุ่น ขนาดใหญ่ สำหรับใช้ประจำทุกวัน"
   },
   {
@@ -46,7 +46,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "confident.JPG",
+    "image": "confident.jpg",
     "description": "กลิ่นมั่นคง ดูเป็นผู้ใหญ่ เพิ่มความมั่นใจในทุกการนัดหมาย พกง่ายในกระเป๋า"
   },
   {
@@ -56,7 +56,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "confident.JPG",
+    "image": "confident.jpg",
     "description": "กลิ่นมั่นคง ดูเป็นผู้ใหญ่ ขนาดใหญ่ สำหรับใช้ประจำทุกวัน"
   },
   {
@@ -66,7 +66,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "romance.JPG",
+    "image": "romance.jpg",
     "description": "กลิ่นอ่อนหวานโรแมนติก เหมาะกับค่ำคืนพิเศษ พกง่ายในกระเป๋า"
   },
   {
@@ -76,7 +76,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "romance.JPG",
+    "image": "romance.jpg",
     "description": "กลิ่นอ่อนหวานโรแมนติก ขนาดใหญ่ สำหรับใช้ประจำทุกวัน"
   },
   {
